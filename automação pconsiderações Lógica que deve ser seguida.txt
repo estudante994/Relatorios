@@ -1,0 +1,39 @@
+Lógica que deve ser seguida
+
+Detalhes fora para o código:
+
+Após ele fazer as considerações uma vez, ele precisa estar ciente das linhas que ele utilizou. Por exemplo, se ewle usou uma linha com 50 unidades, e utilizou apenas 5 dessas 50, preciso que ele saiba disso e utilize A MESMA linha, para fazer a consideração/volume.
+
+Para isso, seria legal ter uma cópia ou um log do que está sendo feito. Para ele enxergar tudo lá, e talvez até uma cópia do próprio AX, podemos fazer ele buscar na pasta do consolidados.
+
+POSSÍVEIS PROBLEMAS:
+
+Vendedor:
+
+- Precisa estar faturado para o vendedor que irá tirar o volume ou para positivar.
+
+CFOP:
+
+- Precisar estar com CFOP apenas 5405 e 5655
+
+Quantidade: 
+
+- Precisa estar com a quantidade exata ou acima. Caso não tiver o total.
+
+Segmento:
+
+- O segmento PRECISA estar preenchido como SBS01, SBS02 ou SBS03.
+
+Marca:
+
+- Precisa estar detalhado a marca desejada para separar a consideração.
+
+Amperagem:
+
+- Pesada ou Leve
+
+
+
+
+Identificação para volume/Considerações
+
